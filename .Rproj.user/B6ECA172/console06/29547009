@@ -1,0 +1,14 @@
+[0m[0KMicrosoft Windows [Version 10.0.17134.523][0K[?25l
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>[0K[?25hg[0Ki[0Kt[0K[65G[?25lC:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>git git clone https://github.com/sourcethemes/academic-kickstart.git[0K[130G[?25h[129G[128G[127G[126G[125G[124G[123G[122G[121G[120G[119G[118G[117G[116G[115G[114G[113G[112G[110G[109G[108G[107G[106G[105G[104G[103G[101G[100G[99G[98G[97G[96G[95G[94G[92G[91G[90G[89G[88G[87G[85G[84G[83G[82G[81G[80G[79G[78G[77G[76G[75G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[63G[64G[65G[?25lC:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>gitgit clone https://github.com/sourcethemes/academic-kickstart.git[0K[64G[?25h[?25lC:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>gigit clone https://github.com/sourcethemes/academic-kickstart.git[0K[63G[?25h[?25lC:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>ggit clone https://github.com/sourcethemes/academic-kickstart.git[0K[62G[?25h[?25lC:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>git clone https://github.com/sourcethemes/academic-kickstart.git[0K[61G[?25h[62G[63G[64G[65G[66G[67G[68G[69G[71G[73G[74G[75G[76G[77G[78G[79G[80G[81G[82G[83G[84G[86G[87G[88G[89G[90G[91G[92G[93G[94G[96G[97G[98G[99G[100G[101G[102G[103G[105G[106G[107G[108G[110G[112G[114G[116G[117G[118G[119G[120G[121G[122G[123G[124G[125G[126G[?25lC:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>git clone https://github.com/sourcethemes/academic-kickstart.git t[0K[?25hh[0Ke[0Km[0Ke[0Ks[0K]0;  - git  clone https://github.com/sourcethemes/academic-kickstart.git themes [?25l
+[0K[?25h]0; fatal: destination path 'themes' already exists and is not an empty directory.[0K[?25l
+[0K
+C:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>[0K[1G[?25h[61G[?25lC:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>git clone https://github.com/sourcethemes/academic-kickstart.git themes[0K[133G[?25h[?25l
+[0K[?25h]0;  - git  clone https://github.com/sourcethemes/academic-kickstart.git themes Cloning into 'themes'...[0K[?25l
+[0K[?25hremote: Enumerating objects: 283, done.[0K[?25l
+Receiving objects:   7% (20/283)[0K[1G[?25hremote: Total 283 (delta 0), reused 0 (delta 0), pack-reused 283 eceiving objects:  91% (258/28[0K[?25l
+Receiving objects: 100% (283/283), 82.39 KiB | 2.84 MiB/s, done.[0K
+Resolving deltas:  76% (70/91)[0K[2G[?25h[?25lResolving deltas: 100% (91/91), done.[0K
+[0K[?25h]0; [?25l
+C:\Users\David Dilworth\Desktop\Open-Notebook\open-notebook>[0K[?25h
